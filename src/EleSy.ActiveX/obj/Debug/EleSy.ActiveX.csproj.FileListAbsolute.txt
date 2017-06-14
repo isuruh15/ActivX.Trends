@@ -1,0 +1,9 @@
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\Debug\EleSy.ActiveX.pdb

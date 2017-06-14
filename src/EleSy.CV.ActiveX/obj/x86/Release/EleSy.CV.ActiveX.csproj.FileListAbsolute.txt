@@ -1,0 +1,7 @@
+d:\Work\Prog\EleSyCVActiveX\bin\EleSy.CV.ActiveX.dll
+d:\Work\Prog\EleSyCVActiveX\bin\EleSy.CV.ActiveX.pdb
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Release\EleSy.CV.ActiveX.VideoControl.resources
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Release\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Release\EleSy.CV.ActiveX.dll
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Release\EleSy.CV.ActiveX.pdb
+D:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Release\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache

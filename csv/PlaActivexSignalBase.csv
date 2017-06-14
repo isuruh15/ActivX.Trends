@@ -1,0 +1,380 @@
+SCEC.SCEC_Kuzbass,1,vt_i2, 11
+SCEC.SCEC_Kuzbass,101,vt_bstr,ОАО "СУЭК-Кузбасс"
+SCEC.SCEC_Kuzbass.TZ2,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.TZ2.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.Kir.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.Kotinskaya.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.Rub.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.Koms.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.Pol.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.Nov7.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.Mine7.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan,1,vt_i2, 11
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Involved,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Involved,2,vt_ui2, 2
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Involved,101,vt_bstr,Сколько раз ПЛА был задействован
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Involved,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period,101,vt_bstr,Период действия  ПЛА
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period.Start,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period.Start,2,vt_bstr,13.05.2015
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period.Start,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period.End,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period.End,2,vt_bstr,04.03.2016
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Period.End,1,vt_i2, 8
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition,101,vt_bstr,Количество позиций
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition.ForToday,2,vt_ui2, 30
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition.ForToday,101,vt_bstr,Количество позиций на сегодня
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition.ForToday,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition.ForToday,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,2,vt_ui2, 12
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,101,vt_bstr,Количество позиций на начало
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.NumberOfPosition.AtTheBegining,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes,101,vt_bstr,Изменения ПЛА
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.ExtractedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.ExtractedPosition,2,vt_ui2, 6
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.ExtractedPosition,101,vt_bstr,Извлечено позиций
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.ExtractedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.AddedPosition,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.AddedPosition,2,vt_ui2, 7
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.AddedPosition,101,vt_bstr,Внесено позиций
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.AddedPosition,1,vt_i2, 18
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.AddedChanges,7011,vt_bool, True
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.AddedChanges,2,vt_ui2, 5
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.AddedChanges,101,vt_bstr,Внесено изменений
+SCEC.SCEC_Kuzbass.TZ1.EmergencyResponsePlan.Changes.AddedChanges,1,vt_i2, 18

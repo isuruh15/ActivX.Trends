@@ -1,0 +1,54 @@
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.dll
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.xml
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\EleSy.ActiveX.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\EleSy.ActiveX.dll
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.dll
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\EleSy.ActiveX.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.xml
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\EleSy.ActiveX.dll
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\EleSy.CV.ActiveX.dll
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\OxyPlot.dll
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\EleSy.CV.ActiveX.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\EleSy.ActiveX.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\OxyPlot.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\OxyPlot.xml
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Repository\Activex Trends\ActiveX.Trends\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

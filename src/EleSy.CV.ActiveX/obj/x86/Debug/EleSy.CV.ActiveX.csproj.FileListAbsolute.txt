@@ -1,0 +1,264 @@
+d:\Work\Prog\EleSyCVActiveX\bin\EleSy.CV.ActiveX.dll
+d:\Work\Prog\EleSyCVActiveX\bin\EleSy.CV.ActiveX.pdb
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.VideoControl.resources
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+d:\Work\Prog\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.PLA.resources
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+D:\temp\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+D:\temp\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+D:\temp\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+D:\temp\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+D:\temp\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+D:\temp\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+D:\temp\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+D:\temp\EleSyCVActiveX\bin\EleSy.CV.ActiveX.dll
+D:\temp\EleSyCVActiveX\bin\EleSy.CV.ActiveX.pdb
+D:\temp\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\EleSyCVActiveX\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\EleSyCVActiveX\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA ActiveX v 1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.ActiveX.v1.02\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03.8\PLA.ActiveX.v1.03\PLA.ActiveX.v1.03\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.9\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.EmergencyResponsePlanControl.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.05\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\bin\EleSy.CV.ActiveX.dll.config
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\bin\EleSy.CV.ActiveX.dll
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\bin\EleSy.CV.ActiveX.pdb
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.ERPControl.resources
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+c:\Users\Администратор\Desktop\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\bin\EleSy.CV.ActiveX.dll.config
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\bin\EleSy.CV.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\bin\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.ERPControl.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.1\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\bin\EleSy.CV.ActiveX.dll.config
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\bin\EleSy.CV.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\bin\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.PlaControl.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\bin\EleSy.CV.ActiveX.dll.config
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\bin\EleSy.CV.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\bin\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.PlaControl.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.05.4(static)\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\bin\EleSy.CV.ActiveX.dll.config
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\bin\EleSy.CV.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\bin\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.PlaControl.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.PlaControl.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.11\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\bin\EleSy.CV.ActiveX.dll.config
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\bin\EleSy.CV.ActiveX.dll
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\bin\EleSy.CV.ActiveX.pdb
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.PlaControl.resources
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+c:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.PlaControl.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\bin\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.TrendsControl.resources
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.Settings.resources
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\bin\EleSy.CV.ActiveX.dll.config
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\bin\EleSy.CV.ActiveX.dll
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\bin\EleSy.CV.ActiveX.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.Settings.resources
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.TrendsControl.resources
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\bin\EleSy.CV.ActiveX.dll.config
+C:\Repository\Activex Trends\ActiveX.Trends\bin\EleSy.CV.ActiveX.dll
+C:\Repository\Activex Trends\ActiveX.Trends\bin\EleSy.CV.ActiveX.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csprojResolveAssemblyReference.cache
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ActiveXPropertiesForm.resources
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.ProgressForm.resources
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Forms.Settings.resources
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.TrendsControl.resources
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.Properties.Resources.resources
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.csproj.GenerateResource.Cache
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.dll
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.CV.ActiveX\obj\x86\Debug\EleSy.CV.ActiveX.pdb

@@ -1,0 +1,62 @@
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПБ_РД\ActiveX\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\ПЛА\v1.0\EleSyCVActiveX - 19.08.2016 - 2\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\EleSyCVActiveX\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\EleSyCVActiveX\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\EleSyCVActiveX\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\EleSyCVActiveX\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.03\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\PLA.Activex\PLA.ActiveX.v1.04.2\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\bin\EleSy.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\bin\EleSy.ActiveX.pdb
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+c:\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.07\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.12\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\ElesyProject(shpaam)\1001.08 - PLA.Activex\PLA.ActiveX.v1.13\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\bin\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\bin\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Users\Администратор\Desktop\test\PLA.ActiveX.v1.15\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\bin\EleSy.ActiveX.dll
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\bin\EleSy.ActiveX.pdb
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Users\Админ\Desktop\test\test\PLA.ActiveX.v1.15\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\bin\EleSy.ActiveX.dll
+C:\Repository\Activex Trends\ActiveX.Trends\bin\EleSy.ActiveX.pdb
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.Controls.ActiveXControlBase.resources
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.csproj.GenerateResource.Cache
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.dll
+C:\Repository\Activex Trends\ActiveX.Trends\src\EleSy.ActiveX\obj\x86\Debug\EleSy.ActiveX.pdb
